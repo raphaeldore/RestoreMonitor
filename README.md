@@ -14,4 +14,4 @@ Future features:
 * Auto save the current location of windows
 * Smart detect when monitors as detected to be un-plugged and re-plugged by Windows
 * Restore the current location of windows automatically
-
+* Save z order of windows
